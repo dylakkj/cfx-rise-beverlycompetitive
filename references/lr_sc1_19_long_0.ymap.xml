@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapData>
+ <name>lr_sc1_19_long_0</name>
+ <parent>lr_sc1_19</parent>
+ <flags value="0" />
+ <contentFlags value="65" />
+ <streamingExtentsMin x="-46.1674957" y="-2014.882" z="-271.571075" />
+ <streamingExtentsMax x="690.199341" y="-1253.25439" z="330.978027" />
+ <entitiesExtentsMin x="218.452881" y="-1718.95532" z="22.78415" />
+ <entitiesExtentsMax x="425.0487" y="-1540.8363" z="42.34098" />
+ <entities>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_top</archetypeName>
+   <flags value="1572874" />
+   <guid value="279939959" />
+   <position x="351.0749" y="-1585.74731" z="31.7942314" />
+   <rotation x="-0.0223410055" y="0.0584800132" z="-0.384772062" w="0.9208862" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_r</archetypeName>
+   <flags value="1572874" />
+   <guid value="3028214170" />
+   <position x="359.5487" y="-1576.15015" z="31.689064" />
+   <rotation x="-0.3732799" y="0.804085851" z="-0.223806933" w="0.404991925" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_r</archetypeName>
+   <flags value="1572874" />
+   <guid value="253425292" />
+   <position x="351.918457" y="-1585.30371" z="29.79544" />
+   <rotation x="-0.0307360049" y="0.05397801" z="-0.4118501" w="0.909132063" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_l</archetypeName>
+   <flags value="1572874" />
+   <guid value="1618248934" />
+   <position x="353.094238" y="-1583.92651" z="29.8768768" />
+   <rotation x="-0.0121039944" y="0.02260799" z="-0.39563784" w="0.9180485" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_1m</archetypeName>
+   <flags value="1572874" />
+   <guid value="2087461018" />
+   <position x="353.803345" y="-1582.88745" z="30.5499878" />
+   <rotation x="-0.0121039944" y="0.02260799" z="-0.39563784" w="0.9180485" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_1m</archetypeName>
+   <flags value="1572874" />
+   <guid value="2933079019" />
+   <position x="354.55426" y="-1582.0188" z="30.6386223" />
+   <rotation x="-0.0273490082" y="0.0557700135" z="-0.467115134" w="0.882012" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_top</archetypeName>
+   <flags value="1572874" />
+   <guid value="3033573067" />
+   <position x="354.509949" y="-1581.49048" z="31.8619728" />
+   <rotation x="-0.0223410055" y="0.0584800132" z="-0.384772062" w="0.9208862" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_top</archetypeName>
+   <flags value="1572874" />
+   <guid value="3959302775" />
+   <position x="355.815857" y="-1580.137" z="31.86523" />
+   <rotation x="0.0021760005" y="4.50000261E-05" z="-0.4681261" w="0.883659" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_r</archetypeName>
+   <flags value="1572874" />
+   <guid value="3301796490" />
+   <position x="358.347534" y="-1577.69531" z="30.4420166" />
+   <rotation x="-0.0307360049" y="0.05397801" z="-0.4118501" w="0.909132063" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_top</archetypeName>
+   <flags value="1572874" />
+   <guid value="490303515" />
+   <position x="356.8421" y="-1578.7688" z="31.8159637" />
+   <rotation x="-0.0273490082" y="0.0557700135" z="-0.467115134" w="0.882012" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_ivy_01_1m</archetypeName>
+   <flags value="1572874" />
+   <guid value="299698739" />
+   <position x="357.315247" y="-1578.89185" z="30.2452316" />
+   <rotation x="-0.0273490082" y="0.0557700135" z="-0.467115134" w="0.882012" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="12" />
+   <lodDist value="160" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>sc1_19_ground</archetypeName>
+   <flags value="1572872" />
+   <guid value="2832072419" />
+   <position x="321.750122" y="-1629.89575" z="32.567276" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="6" />
+   <lodDist value="180" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>sc1_19_ground_dtl</archetypeName>
+   <flags value="1572872" />
+   <guid value="2290741444" />
+   <position x="312.918274" y="-1611.64673" z="35.3142853" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="4" />
+   <lodDist value="180" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_HD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_plant_group_02</archetypeName>
+   <flags value="1572864" />
+   <guid value="2893468212" />
+   <position x="320.3194" y="-1548.29663" z="28.3084679" />
+   <rotation x="0" y="0" z="0.8905451" w="0.454895079" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572864" />
+   <guid value="3865362145" />
+   <position x="316.5965" y="-1552.25439" z="28.5153618" />
+   <rotation x="0" y="0" z="0.8905451" w="0.454895079" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_plant_group_02</archetypeName>
+   <flags value="1572864" />
+   <guid value="3961819778" />
+   <position x="308.425964" y="-1562.32617" z="28.3340263" />
+   <rotation x="0" y="0" z="0.8719461" w="0.489602059" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572868" />
+   <guid value="4271438476" />
+   <position x="311.111267" y="-1558.751" z="28.5153618" />
+   <rotation x="0" y="0" z="0.8905451" w="0.454895079" />
+   <scaleXY value="0.817979" />
+   <scaleZ value="0.817979" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2113078929" />
+   <position x="285.306519" y="-1594.2876" z="29.5637283" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2460279925" />
+   <position x="286.819977" y="-1608.65637" z="29.7505722" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2522004943" />
+   <position x="291.560822" y="-1608.1875" z="29.7505722" />
+   <rotation x="0" y="0" z="0.613360941" w="0.7898028" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2000091799" />
+   <position x="294.96524" y="-1598.27466" z="29.7505722" />
+   <rotation x="0" y="0" z="0.9516799" w="0.307091981" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="415232696" />
+   <position x="295.8047" y="-1602.043" z="29.7505722" />
+   <rotation x="0" y="0" z="0.9999356" w="0.0113539966" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1252460153" />
+   <position x="302.794617" y="-1573.095" z="31.9780426" />
+   <rotation x="0" y="0" z="0.8845947" w="-0.4663608" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2525336677" />
+   <position x="258.0727" y="-1578.16382" z="30.7304611" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1069594269" />
+   <position x="252.8325" y="-1578.51587" z="29.7505722" />
+   <rotation x="0" y="0" z="0.5620068" w="0.827132642" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1399440394" />
+   <position x="271.388855" y="-1575.30151" z="30.6761551" />
+   <rotation x="0" y="0" z="0.418008149" w="0.9084433" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2387364949" />
+   <position x="281.5136" y="-1604.42139" z="29.7505722" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1412126647" />
+   <position x="268.711884" y="-1591.8811" z="30.6135178" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2967824258" />
+   <position x="271.724823" y="-1577.03931" z="30.6480026" />
+   <rotation x="0.00215999968" y="0.00396699971" z="0.8782339" w="-0.478209972" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1986363871" />
+   <position x="265.3401" y="-1584.25439" z="31.7708435" />
+   <rotation x="-0.00175700081" y="-0.000261000125" z="-0.146728069" w="0.98917526" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="196855333" />
+   <position x="263.440735" y="-1582.63074" z="31.7619171" />
+   <rotation x="-0.0003639999" y="0.00176099944" z="0.9792588" w="0.202605948" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2852581549" />
+   <position x="258.143738" y="-1578.74829" z="30.5846939" />
+   <rotation x="0" y="0" z="0.694351256" w="0.719636261" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2930145196" />
+   <position x="266.696136" y="-1604.0127" z="30.7636719" />
+   <rotation x="-0.003111" y="0.00208600028" z="0.556936" w="0.830547" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2951620534" />
+   <position x="295.834259" y="-1631.00977" z="31.7679138" />
+   <rotation x="-0.0008699996" y="0.00156099931" z="0.8734516" w="0.48690778" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1204887893" />
+   <position x="297.342773" y="-1628.93457" z="31.7770615" />
+   <rotation x="0.000198000023" y="0.00177600037" z="0.993839264" w="-0.110817023" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2230505171" />
+   <position x="300.426849" y="-1627.786" z="31.7642632" />
+   <rotation x="-0.00378899835" y="-4.19999778E-05" z="-0.0110729951" w="0.9999315" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="1891463236" />
+   <position x="306.482971" y="-1589.04993" z="30.76574" />
+   <rotation x="-0.0006609998" y="0.00368799851" z="0.984320641" w="0.17634894" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572867" />
+   <guid value="1373014166" />
+   <position x="355.7576" y="-1707.53882" z="27.4289322" />
+   <rotation x="-0.05039598" y="-0.0153449951" z="0.75440073" w="0.654296756" />
+   <scaleXY value="0.949436" />
+   <scaleZ value="0.949436" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_MEDIUM</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2769058066" />
+   <position x="355.365967" y="-1715.882" z="27.866188" />
+   <rotation x="-0.0299669914" y="-0.0433259867" z="0.184897959" w="0.9813448" />
+   <scaleXY value="0.949436" />
+   <scaleZ value="0.949436" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2883882287" />
+   <position x="348.560059" y="-1710.56665" z="27.9549942" />
+   <rotation x="-0.05267901" y="-0.000301999564" z="0.909931242" w="0.41140008" />
+   <scaleXY value="0.949436" />
+   <scaleZ value="0.949436" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572866" />
+   <guid value="2478266815" />
+   <position x="353.038849" y="-1708.30811" z="28.024025" />
+   <rotation x="0.005709999" y="-0.05236999" z="-0.5026679" w="0.862872958" />
+   <scaleXY value="0.684525" />
+   <scaleZ value="0.684525" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_OPTIONAL_HIGH</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572864" />
+   <guid value="2827941732" />
+   <position x="391.199371" y="-1639.85938" z="28.2912064" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1" />
+   <scaleZ value="1" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572868" />
+   <guid value="1815135022" />
+   <position x="390.6777" y="-1642.8175" z="28.0802422" />
+   <rotation x="0" y="0" z="0.626399934" w="0.779501855" />
+   <scaleXY value="0.9199" />
+   <scaleZ value="0.9199" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572868" />
+   <guid value="1036435890" />
+   <position x="389.342957" y="-1641.14526" z="28.1098938" />
+   <rotation x="0" y="0" z="0" w="1" />
+   <scaleXY value="1.033234" />
+   <scaleZ value="1.033234" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572870" />
+   <guid value="2136060480" />
+   <position x="360.512451" y="-1576.00378" z="28.3617973" />
+   <rotation x="-0.0006609998" y="0.00368799851" z="0.984320641" w="0.17634894" />
+   <scaleXY value="0.824504" />
+   <scaleZ value="0.824504" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572870" />
+   <guid value="451344752" />
+   <position x="355.350525" y="-1582.20117" z="28.3617973" />
+   <rotation x="-0.0006609998" y="0.00368799851" z="0.984320641" w="0.17634894" />
+   <scaleXY value="0.824504" />
+   <scaleZ value="0.824504" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572870" />
+   <guid value="744960547" />
+   <position x="348.835846" y="-1589.77222" z="28.3617973" />
+   <rotation x="-0.0006609998" y="0.00368799851" z="0.984320641" w="0.17634894" />
+   <scaleXY value="0.824504" />
+   <scaleZ value="0.824504" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572870" />
+   <guid value="150581734" />
+   <position x="347.995361" y="-1590.88049" z="28.3617973" />
+   <rotation x="-0.00241600024" y="0.00286400015" z="0.7642721" w="0.644883037" />
+   <scaleXY value="0.639027" />
+   <scaleZ value="0.639027" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+  <Item type="CEntityDef">
+   <archetypeName>prop_bush_med_03</archetypeName>
+   <flags value="1572870" />
+   <guid value="1035096252" />
+   <position x="343.554138" y="-1595.90686" z="28.3617973" />
+   <rotation x="-0.00241600024" y="0.00286400015" z="0.7642721" w="0.644883037" />
+   <scaleXY value="0.639027" />
+   <scaleZ value="0.639027" />
+   <parentIndex value="-1" />
+   <lodDist value="-1" />
+   <childLodDist value="0" />
+   <lodLevel>LODTYPES_DEPTH_ORPHANHD</lodLevel>
+   <numChildren value="0" />
+   <priorityLevel>PRI_REQUIRED</priorityLevel>
+   <extensions />
+   <ambientOcclusionMultiplier value="255" />
+   <artificialAmbientOcclusion value="255" />
+   <tintValue value="0" />
+  </Item>
+ </entities>
+ <containerLods itemType="rage__fwContainerLodDef" />
+ <boxOccluders itemType="BoxOccluder" />
+ <occludeModels itemType="OccludeModel" />
+ <physicsDictionaries>
+  <Item>prop_plant_group_02</Item>
+  <Item>v_bush</Item>
+ </physicsDictionaries>
+ <instancedData>
+  <ImapLink />
+  <PropInstanceList itemType="rage__fwPropInstanceListDef" />
+  <GrassInstanceList itemType="rage__fwGrassInstanceListDef" />
+ </instancedData>
+ <timeCycleModifiers itemType="CTimeCycleModifier" />
+ <carGenerators itemType="CCarGen" />
+ <LODLightsSOA>
+  <direction itemType="FloatXYZ" />
+  <falloff />
+  <falloffExponent />
+  <timeAndStateFlags />
+  <hash />
+  <coneInnerAngle />
+  <coneOuterAngleOrCapExt />
+  <coronaIntensity />
+ </LODLightsSOA>
+ <DistantLODLightsSOA>
+  <position itemType="FloatXYZ" />
+  <RGBI />
+  <numStreetLights value="0" />
+  <category value="0" />
+ </DistantLODLightsSOA>
+ <block>
+  <version value="0" />
+  <flags value="0" />
+  <name></name>
+  <exportedBy></exportedBy>
+  <owner></owner>
+  <time></time>
+ </block>
+</CMapData>
